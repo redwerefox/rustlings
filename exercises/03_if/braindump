@@ -1,0 +1,2 @@
+important node
+when using if .. else if ... else you can use returns without semicolon and return keywoard, but if you just use if and later if again, return is required because its not a closed flow

@@ -1,0 +1,2 @@
+
+the slice operation is new for me &a[1..4] from container a, and the range thing with the end index not including can be tricky but makes sence for 0 counting
