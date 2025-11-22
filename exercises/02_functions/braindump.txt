@@ -1,0 +1,5 @@
+after learning fn <filename> () 
+{
+
+}
+syntax the only thing that surprised me was that returns can be written with a line without semicolon
