@@ -1,0 +1,1 @@
+There is a concept i dont get: why did match message { Message::Quit => .. // not the same as Message::Quit() => ..} , I guess its because Quit is defined above as () not a function
