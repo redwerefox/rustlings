@@ -1,0 +1,1 @@
+its a bit of a c++ struggle to unlearn use of references. as the best oop way in rust is to pass with move, which is the default for complex types.
