@@ -1,0 +1,1 @@
+regular types require {} use and stating its attributes. with .. you can fill up the rest from another, called update syntax
